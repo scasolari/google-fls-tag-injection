@@ -1,0 +1,15 @@
+{
+  "name": "google-fls",
+  "version": "0.2.5",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "google",
+    "campaign",
+    "manager",
+    "placedv",
+    "npm",
+    "package",
+    "reactjs"
+  ]
+}
